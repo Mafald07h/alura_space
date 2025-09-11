@@ -1,6 +1,8 @@
 from django.shortcuts import render
-from django.http.response import HttpResponse
 
 # Create your views here.
 def index(request):
-    return HttpResponse('<h1> Alura Spacing </h1>')
+    return render(request, 'galeria/index.html')
+
+def imagem(request):
+    return render(request, 'galeria/imagem.html')
