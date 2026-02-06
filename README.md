@@ -13,7 +13,15 @@ Nos novos cursos, o projeto foi atualizado e adaptado para um novo padrão, send
 ``` mermaid
     flowchart LR;
       A --> B
+      B --> C
+      C --> A
+```
 
+```mermaid
+     gitGraph
+        commit
+        commit
+        branch master
 ```
 
 
