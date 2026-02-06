@@ -8,5 +8,17 @@ Em breve, irei pretender melhorar e estudar mais ainda esse projeto, trazendo ma
 <hr>
 Nos novos cursos, o projeto foi atualizado e adaptado para um novo padrão, sendo criado várias funcionalidades novas.
 
+
+
+``` mermaid
+    flowchart LR;
+      A --> B
+
+```
+
+
+
+
+
 <hr>
 Autor: Heitor Silva Mafaldo
