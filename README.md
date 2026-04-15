@@ -29,4 +29,4 @@ Nos novos cursos, o projeto foi atualizado e adaptado para um novo padrão, send
 
 
 <hr>
-Autor: Heitor Silva Mafaldo
+Autor: Heitor Silva Mafaldo | Todos os direitos reservados
