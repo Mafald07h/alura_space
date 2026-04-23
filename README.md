@@ -5,6 +5,8 @@ Projeto desenvolvido pela Alura, o qual tem como principal objetivo aprender mai
 
 Em breve, irei pretender melhorar e estudar mais ainda esse projeto, trazendo mais melhorias e adicionar mais coisas.
 
+Saudades da Alura 
+
 <hr>
 Nos novos cursos, o projeto foi atualizado e adaptado para um novo padrão, sendo criado várias funcionalidades novas.
 
